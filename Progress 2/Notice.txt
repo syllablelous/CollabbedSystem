@@ -1,0 +1,4 @@
+Functionality is somewhat nearing close to completion.
+A few tweaks and some bug fixes need to be made first.
+As well as organizing the code.
+Not yet done, but we're close.
