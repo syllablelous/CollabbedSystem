@@ -1,0 +1,3 @@
+Made some bug fixes, particularly preventing the user from adding already existing position codes and job titles. (in JobPosting)
+Added Email Format page which would appear once the applicant finishes applying for a position.
+Also added a combo box filter for the Applicants table at the Executive Dashboard.
